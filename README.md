@@ -31,7 +31,7 @@
 </td>
 <td valign="top" width="40%">
   <img 
-    src="https://raw.githubusercontent.com/OmkarDhekane/OmkarDhekane.github.io/master/util/ChatGPT%20Image%20May%2027%2C%202025%2C%2012_01_54%20AM.png" 
+    src="https://raw.githubusercontent.com/OmkarDhekane/OmkarDhekane.github.io/master/gitub-aigen-image.png" 
     alt="Octocat Garden by Omkar" 
     title="[gpt-4o]: In a vibrant digital illustration, omkar oversees a group of GitHub Octocats working collaboratively in a sunlit garden. The scene teems with activity, from Octocats coding at desks to others assembling products, packing boxes, and lounging in hammocks or beach chairs, all amidst lush greenery under clear skies with soft sunlight filtering through the trees." 
     width="100%" 
