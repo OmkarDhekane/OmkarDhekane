@@ -27,6 +27,7 @@
 - 🧠 Passionate about **Machine Learning**, **Data Engineering**, and **AI Research**  
 - 🌱 Currently exploring **Generative AI** and **MLOps**  
 - 🎯 Goal: To bridge the gap between **AI research** and **real-world applications**
+- 🎶 Hobby: Music, Games, Badminton, Trek 
 
 </td>
 <td valign="top" width="40%">
@@ -67,18 +68,18 @@
 
 ### 🚀 Featured Projects
 
-- [**mahaNLP**](https://github.com/l3cube-pune/MarathiNLP): Open-source NLP toolkit for Marathi, enhancing text analysis efficiency. 📝
-- [**Wheat Crop Disease Detection**](https://github.com/OmkarDhekane/wcdc): DenseNet121 model achieving 71% micro F1-score on test in classifying wheat diseases. 🌾
-- [**FoodForward**](https://github.com/OmkarDhekane/foodforward-cs411fa24): Food donation platform connecting donors with NGOs. 🍽️
-- [**L3Cube-MahaNews Dataset**](https://link.springer.com/chapter/10.1007/978-3-031-58495-4_4): Curated 108K+ supervised dataset for Marathi news classification. 📰
-- [**TextGram**](https://link.springer.com/chapter/10.1007/978-3-031-58495-4_12): Domain-adaptive data selection algorithm for LLM pretraining. 🧠
+- [**mahaNLP**](https://github.com/l3cube-pune/MarathiNLP): Open-source NLP toolkit for Marathi, enhancing text analysis efficiency. 📝 (Development)
+- [**Wheat Crop Disease Detection**](https://github.com/OmkarDhekane/wcdc): DenseNet121 model achieving 71% micro F1-score on test in classifying multi-label wheat diseases. 🌾 (Computer Vision)
+- [**FoodForward**](https://github.com/OmkarDhekane/foodforward-cs411fa24): Full-stack Digital Food donation platform connecting donors with NGOs. 🍽️ (Development)
+- [**L3Cube-MahaNews Dataset**](https://link.springer.com/chapter/10.1007/978-3-031-58495-4_4): Long/short Document News Text Classification. Curation & Training 📰 (NLP)
+- [**TextGram**](https://link.springer.com/chapter/10.1007/978-3-031-58495-4_12): Domain-adaptive data selection algorithm for LLM pretraining. 🧠(NLP)
 
 ---
 
 ### 🏆 Achievements
 
-- 🥇 **SIH’22 Winner**: 36 hr hackathon to build end-2-end attendance tracker app use-cased for factory workers
-- 🥈 **InC’23 2nd Runner-up**: Recognized for innovative solutions in AI and ML.
+- 🥇 **SIH’22 Winner**: 36 hr Hackathon to build end-2-end attendance tracker app use-cased for factory workers
+- 🥈 **InC’23 2nd Runner-up**: Project Competition for final year major project. Recognized for innovative solutions in AI and ML.
 - 📜 **Publications**: Featured in [IJCNLP-AACL 2023](https://aclanthology.org/2023.ijcnlp-demo.5/) and [SPELLL 2023](https://link.springer.com/chapter/10.1007/978-3-031-58495-4_12) conferences.
 
 ---
@@ -91,5 +92,5 @@
 
 ---
 
-*“Transforming ideas into impactful AI solutions.”* 🚀
 
+*partial credit to ChatGPT for preparing the beautiful readme.*
