@@ -68,16 +68,16 @@
 ### 🚀 Featured Projects
 
 - [**mahaNLP**](https://github.com/l3cube-pune/MarathiNLP): Open-source NLP toolkit for Marathi, enhancing text analysis efficiency. 📝
+- [**Wheat Crop Disease Detection**](https://github.com/OmkarDhekane/wcdc): DenseNet121 model achieving 71% micro F1-score on test in classifying wheat diseases. 🌾
+- [**FoodForward**](https://github.com/OmkarDhekane/foodforward-cs411fa24): Food donation platform connecting donors with NGOs. 🍽️
 - [**L3Cube-MahaNews Dataset**](https://link.springer.com/chapter/10.1007/978-3-031-58495-4_4): Curated 108K+ supervised dataset for Marathi news classification. 📰
 - [**TextGram**](https://link.springer.com/chapter/10.1007/978-3-031-58495-4_12): Domain-adaptive data selection algorithm for LLM pretraining. 🧠
-- [**Wheat Crop Disease Detection**](https://github.com/OmkarDhekane/Data-science-projects): CNN-based model achieving 92.81% F1-score in classifying wheat diseases. 🌾
-- [**FoodForward**](https://github.com/OmkarDhekane/foodforward-cs411fa24): AI-driven food donation platform connecting donors with NGOs. 🍽️
 
 ---
 
 ### 🏆 Achievements
 
-- 🥇 **SIH’22 Winner**: Led a team of 4 in a global competition with 2,000+ participants.
+- 🥇 **SIH’22 Winner**: 36 hr hackathon to build end-2-end attendance tracker app use-cased for factory workers
 - 🥈 **InC’23 2nd Runner-up**: Recognized for innovative solutions in AI and ML.
 - 📜 **Publications**: Featured in [IJCNLP-AACL 2023](https://aclanthology.org/2023.ijcnlp-demo.5/) and [SPELLL 2023](https://link.springer.com/chapter/10.1007/978-3-031-58495-4_12) conferences.
 
