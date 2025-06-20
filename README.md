@@ -27,7 +27,7 @@
 - 🧠 Passionate about **Machine Learning**, **Data Engineering**, and **AI Research**  
 - 🌱 Currently exploring **Generative AI** and **MLOps**  
 - 🎯 Goal: To bridge the gap between **AI research** and **real-world applications**
-- 🎶 Hobby: Music, Games, Badminton, Trek 
+- 🎶 Hobby: Music, Chess, Badminton, Trek,
 
 </td>
 <td valign="top" width="40%">
