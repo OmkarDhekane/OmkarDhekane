@@ -70,6 +70,7 @@
 
 - [**mahaNLP**](https://github.com/l3cube-pune/MarathiNLP): Open-source NLP toolkit for Marathi, enhancing text analysis efficiency. 📝 (Development)
 - [**Wheat Crop Disease Detection**](https://github.com/OmkarDhekane/wcdc): DenseNet121 model achieving 71% micro F1-score on test in classifying multi-label wheat diseases. 🌾 (Computer Vision)
+- [**Multi-agent Research assistant with LangGraph**](https://github.com/OmkarDhekane/LangGraph-multi-agent-RA): This adaptive research agent allows you to search for verified information on internet against set of evidence for the given query. requires Gemini API setup if running locally 🧠 (Agentic AI)
 - [**FoodForward**](https://github.com/OmkarDhekane/foodforward-cs411fa24): Full-stack Digital Food donation platform connecting donors with NGOs. 🍽️ (Development)
 - [**L3Cube-MahaNews Dataset**](https://link.springer.com/chapter/10.1007/978-3-031-58495-4_4): Long/short Document News Text Classification. Curation & Training 📰 (NLP)
 - [**TextGram**](https://link.springer.com/chapter/10.1007/978-3-031-58495-4_12): Domain-adaptive data selection algorithm for LLM pretraining. 🧠(NLP)
