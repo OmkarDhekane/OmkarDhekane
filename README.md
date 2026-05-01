@@ -1,7 +1,7 @@
 <!-- Omkar Dhekane | GitHub Profile README -->
 
 <h1 align="center">Hey there 👋, I'm Omkar Dhekane</h1>
-<h3 align="center">🚀 AI Researcher | 🧠 NLP Enthusiast | 🎓 CS @ UIUC | 🌐 Open Source Enthusiast</h3>
+<h3 align="center">🤖 AI Engineer · 🧠 NLP Researcher · ⚙️ Systems Builder</h3>
 
 <p align="center">
   <a href="https://omkardhekane.github.io/">
@@ -23,11 +23,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Pursuing **Master of Computer Science** at **UIUC**  
-- 🧠 Passionate about **Machine Learning**, **Data Engineering**, and **AI Research**  
-- 🌱 Currently exploring **Generative AI** and **MLOps**  
-- 🎯 Goal: To bridge the gap between **AI research** and **real-world applications**
-- 🎶 Hobby: Music, Chess, Badminton, Trek
+- 🎓 M.S. Computer Science @ **UIUC** (Dec 2025, GPA 4.0)
+- 🔬 Research Software Engineer at **UIUC Garg Lab** - building AI tools for real-world scientific workflows
+- 🤖 I love working at the intersection of **LLMs, agentic systems, and scalable data pipelines**
+- 📝 Published researcher - 3 papers across **IJCNLP-AACL 2023** and **Springer SPELLL 2023**
+- 🌱 Currently exploring **multi-agent orchestration** and **distributed ML systems**
+- 🎶 Outside of code: Music, Chess, Badminton, Trekking
 
 </td>
 <td valign="top" width="40%">
@@ -46,7 +47,13 @@
 
 ### 🔧 Technologies & Tools I worked with..
 
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript&perrow=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&perrow=9" />&nbsp;&nbsp;<img src="https://skills.syvixor.com/api/icons?i=pandas,langchain" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,kafka,redis,postgres,mongodb,mysql&perrow=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,django,tailwind,bootstrap&perrow=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,linux,bash,postman,figma&perrow=9" />
+</p>
 
 ---
 
@@ -56,42 +63,43 @@
   <img src="https://github-readme-stats.vercel.app/api?username=OmkarDhekane&show_icons=true&theme=radical" alt="Omkar's GitHub Stats" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarDhekane&theme=radical" alt="Omkar's GitHub Streak" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarDhekane&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+
 ---
 
 ### 🚀 Featured Projects
 
-- [**mahaNLP**](https://github.com/l3cube-pune/MarathiNLP): Open-source NLP toolkit for Marathi, enhancing text analysis efficiency. 📝 (Development)
-- [**Wheat Crop Disease Detection**](https://github.com/OmkarDhekane/wcdc): DenseNet121 model achieving 71% micro F1-score on test in classifying multi-label wheat diseases. 🌾 (Computer Vision)
-- [**Multi-agent Research assistant with LangGraph**](https://github.com/OmkarDhekane/LangGraph-multi-agent-RA): This adaptive research agent allows you to search for verified information on internet against set of evidence for the given query. requires Gemini API setup if running locally 🧠 (Agentic AI)
-- [**FoodForward**](https://github.com/OmkarDhekane/foodforward-cs411fa24): Full-stack Digital Food donation platform connecting donors with NGOs. 🍽️ (Development)
-- [**L3Cube-MahaNews Dataset**](https://link.springer.com/chapter/10.1007/978-3-031-58495-4_4): Long/short Document News Text Classification. Curation & Training 📰 (NLP)
-- [**TextGram**](https://link.springer.com/chapter/10.1007/978-3-031-58495-4_12): Domain-adaptive data selection algorithm for LLM pretraining. 🧠(NLP)
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**Multi-Agent Research Assistant**](https://github.com/OmkarDhekane/LangGraph-multi-agent-RA) | Agentic RAG system with LangGraph - routes queries across web search and a local evidence store, with reflection and self-correction loops | Python · LangGraph · Gemini · FAISS |
+| [**Multi-Threaded TCP Firewall Engine**](https://github.com/OmkarDhekane) | Stateless C++ firewall with concurrent rule evaluation across TCP streams using mutex-protected rule tables and thread pools | C++ · Multithreading · TCP/IP |
+| [**Wheat Crop Disease Detection**](https://github.com/OmkarDhekane/wcdc) | Multi-label disease classifier using DenseNet121, achieving 71% micro F1-score - trained on real field imagery with augmentation and threshold tuning | PyTorch · DenseNet121 · OpenCV · sklearn |
+| [**FoodForward**](https://github.com/OmkarDhekane/foodforward-cs411fa24) | Full-stack food donation platform connecting donors with NGOs - real-time inventory tracking, role-based access, and geolocation-based matching | React · Node.js · Express · MySQL |
+| [**mahaNLP**](https://github.com/l3cube-pune/MarathiNLP) | Open-source NLP toolkit for Marathi - tokenization, POS tagging, and text classification utilities serving the low-resource Indic NLP community | Python · HuggingFace · Transformers |
+| [**TextGram**](https://link.springer.com/chapter/10.1007/978-3-031-58495-4_12) | Domain-adaptive data selection algorithm for LLM pretraining - selects high-signal training examples using n-gram overlap and perplexity signals | Python · LLMs · NLP · Springer SPELLL 2023 |
 
 ---
 
-### 🏆 Achievements
+### 🏆 Achievements & Publications
 
-- 🥇 **SIH’22 Winner**: 36 hr Hackathon to build end-2-end attendance tracker app use-cased for factory workers
-- 🥈 **InC’23 2nd Runner-up**: Project Competition for final year major project. Recognized for innovative solutions in AI and ML.
-- 📜 **Publications**: Featured in [IJCNLP-AACL 2023](https://aclanthology.org/2023.ijcnlp-demo.5/) and [SPELLL 2023](https://link.springer.com/chapter/10.1007/978-3-031-58495-4_12) conferences.
+**🏅 Competitions**
+- 🥇 **SIH 2022 Winner** — Built an end-to-end biometric attendance tracking app for factory workers in a 36-hour national hackathon
+- 🥈 **InC 2023 2nd Runner-up** — Recognized for innovative AI/ML solution in national final-year project competition
 
----
-
-### 📫 Let's Connect
-
-- 🌐 [Portfolio](https://omkardhekane.github.io/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/omkardhekane)
-- 📧 [Email](mailto:dhekane2@illinois.edu)
+**📄 Publications**
+- 📘 [**L3Cube-MahaNews: Marathi News Dataset**](https://link.springer.com/chapter/10.1007/978-3-031-58495-4_4) — Long/short document news classification for low-resource Marathi NLP · *Springer SPELLL 2023*
+- 📗 [**TextGram: Domain-Adaptive Data Selection for LLM Pretraining**](https://link.springer.com/chapter/10.1007/978-3-031-58495-4_12) — N-gram and TextRank (PageRank) based training data curation algorithm for improving pretraining steps *Springer SPELLL 2023*
+- 📙 [**mahaNLP Demo**](https://aclanthology.org/2023.ijcnlp-demo.5/) — Open-source Marathi NLP toolkit demo · *IJCNLP-AACL 2023*
 
 ---
 
 
-*partial credit to ChatGPT for preparing the beautiful readme.*
+
+*partial credit to Claude for preparing this beutiful readme.*
