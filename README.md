@@ -71,6 +71,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarDhekane&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OmkarDhekane&color=green&for-the-badge" />
+</p>
+
+
 
 ---
 
