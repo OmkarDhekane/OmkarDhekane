@@ -59,17 +59,17 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmkarDhekane&show_icons=true&theme=radical" alt="Omkar's GitHub Stats" />
-</p>
-
 <!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarDhekane&theme=radical" alt="Omkar's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmkarDhekane&show_icons=true&theme=radical" alt="Omkar's GitHub Stats" />
 </p> -->
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarDhekane&theme=radical" alt="Omkar's GitHub Streak" />
+</p> 
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarDhekane&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OmkarDhekane&color=green&for-the-badge" />
